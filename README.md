@@ -7,11 +7,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, contribuiç�
 - 🌐 Apaixonado por tecnologia, código limpo e boas práticas
 - ✨ Sempre aprendendo algo novo
 
-## 📚 Meus projetos
-Aqui estão alguns projetos que eu estou trabalhando:
-- [Projeto Relógio Digital](#) - https://github.com/EDI-SOUZA/RELOGIO-DIGITAL
-- [Projeto Loja de Informática](#) - https://github.com/EDI-SOUZA/es_tech
-
 ## 👨‍💻 Tecnologias
 ## Tecnologias e ferramentas que utilizo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
