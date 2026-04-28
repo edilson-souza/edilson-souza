@@ -51,6 +51,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, contribuiç�
 <div>
 <a href="https://github.com/edi-souza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edi-souza&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=edi-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilson-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ---
